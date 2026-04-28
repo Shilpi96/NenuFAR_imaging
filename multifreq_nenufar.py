@@ -1,4 +1,4 @@
-#### This code calls another script to make nenuFAR maps and plot images with multiple frequencies
+#### This code calls another script nenufar_module.py, to make nenuFAR maps and plot images with multiple frequencies
 
 from nenufar_module import process_multiple_maps
 import matplotlib.pyplot as plt
